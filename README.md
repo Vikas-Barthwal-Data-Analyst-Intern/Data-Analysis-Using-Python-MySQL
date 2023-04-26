@@ -93,42 +93,55 @@ Task 1: Write An SQL Query To Solve The Given Problem Statement.
 Find the 5 oldest users.
 
 Task 2: Write An SQL Query To Solve The Given Problem Statement.
+
 a). What day of the week do most users register on? 
 b). We need to figure out when to schedule an ad campgain
 
 Task 3: Write An SQL Query To Solve The Given Problem Statement.
+
 We want to target our inactive users with an email campaign. Find the users who have never posted a photo.
 
 Task 4: Write An SQL Query To Solve The Given Problem Statement.
+
 We're running a new contest to see who can get the most likes on a single photo. WHO WON?
 
 Task 5: Write An SQL Query To Solve The Given Problem Statement.
+
 Our Investors want to know...How many times does the average user post? (total number of photos/total number of users)
 
 Task 6: Write An SQL Query To Solve The Given Problem Statement.
+
 user ranking by postings higher to lower
 
 Task 7: Write An SQL Query To Solve The Given Problem Statement.
+
 Total Posts by users (longer versionof SELECT COUNT(*)FROM photos)
 
 Task 8: Write An SQL Query To Solve The Given Problem Statement.
+
 Total numbers of users who have posted at least one time
 
 Task 9: Write An SQL Query To Solve The Given Problem Statement.
+
 A brand wants to know which hashtags to use in a post. What are the top 5 most commonly used hashtags?
 
 Task 10: Write An SQL Query To Solve The Given Problem Statement.
+
 We have a small problem with bots on our site. Find users who have liked every single photo on the site
 
 Task 11: Write An SQL Query To Solve The Given Problem Statement.
+
 We also have a problem with celebrities. Find users who have never commented on a photo
 
 Task 12: Write An SQL Query To Solve The Given Problem Statement.
+
 Are we overrun with bots and celebrity accounts? Find the percentage of our users who have either never commented on a photo or have commented on every photo
 
 Task 13: Write An SQL Query To Solve The Given Problem Statement.
+
 Find users who have ever commented on a photo
 
 Task 14: Write An SQL Query To Solve The Given Problem Statement.
+
 Are we overrun with bots and celebrity accounts? Find the percentage of our users who have either never commented on a photo or have commented on photos before.
 
