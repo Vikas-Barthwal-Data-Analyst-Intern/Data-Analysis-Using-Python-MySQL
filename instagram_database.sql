@@ -1,6 +1,4 @@
-USE hicounselor1;
-
-##Users-Table ##
+## Users-Table ##
 
 CREATE TABLE users(
 	id INT AUTO_INCREMENT UNIQUE PRIMARY KEY,
